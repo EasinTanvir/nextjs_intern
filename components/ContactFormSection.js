@@ -97,7 +97,7 @@ const ContactForm = () => {
                 required
                 onChange={onChangeHandler}
                 name="email"
-                type="text"
+                type="email"
                 value={input.email}
                 placeholder="Email *"
               />
